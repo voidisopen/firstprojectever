@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "voidinthevoid",
+  "version": "1.0.0",
+  "name": "VoidInTheVoid",
+  "description": "Client mod with voidy UI & essential-like features",
+  "authors": ["URANIUM"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": ["com.voidinthevoid.client.VoidInTheVoidClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric-api": "*"
+  }
+}
